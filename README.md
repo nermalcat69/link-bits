@@ -1,10 +1,16 @@
 
-# SvelteKit Template
-This template comes with: 
+# Link Bits
+Store your valuable links and organize them lol
+
+
 - SvelteKit
 - Typescript
 - TailwindCSS
 - Vite
+
+
+
+SvelteKit Template from bekian
 
 To use this repo 
 1. Click the "use this template" button at the top of the page
